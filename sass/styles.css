@@ -216,7 +216,7 @@ nav ul li {
 }
 
 .card {
-  background: url(../../photos/card-background-img.png);
+  background: url(../photos/card-background-img.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
