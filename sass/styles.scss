@@ -1,0 +1,16 @@
+@import "../sass/generals/colors";
+@import "../sass/generals/header";
+@import "../sass/generals/carousel";
+@import "../sass/generals/main-container";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial,sans-serif;
+    font-size: 14px;
+    background-color: #ff6900;
+}
+
